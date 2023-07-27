@@ -1,0 +1,35 @@
+
+email
+amajagh@outlook.com
+github
+https://github.com/amajagh
+linkedin
+https://linkedin.com/amajagh *
+twitter
+@amajagh *
+
+<span class="material-icons md-18 md-dark">star</span>
+<span class="material-icons md-18 md-dark">star_border</span>
+<span class="material-icons md-18 md-dark">star_half</span>
+
+4.0
+<span class="material-icons md-18 md-dark">star</span><span class="material-icons md-18 md-dark">star</span><span class="material-icons md-18 md-dark">star</span><span class="material-icons md-18 md-dark">star</span>
+3.5
+<span class="material-icons md-18 md-dark">star</span><span class="material-icons md-18 md-dark">star</span><span class="material-icons md-18 md-dark">star</span><span class="material-icons md-18 md-dark">star_half</span>
+3.0
+<span class="material-icons md-18 md-dark">star</span><span class="material-icons md-18 md-dark">star</span><span class="material-icons md-18 md-dark">star</span><span class="material-icons md-18 md-dark">star_border</span>
+2.5
+<span class="material-icons md-18 md-dark">star</span><span class="material-icons md-18 md-dark">star</span><span class="material-icons md-18 md-dark">star_half</span><span class="material-icons md-18 md-dark">star_border</span>
+2.0
+<span class="material-icons md-18 md-dark">star</span><span class="material-icons md-18 md-dark">star</span><span class="material-icons md-18 md-dark">star_border</span><span class="material-icons md-18 md-dark">star_border</span>
+1.5
+<span class="material-icons md-18 md-dark">star</span><span class="material-icons md-18 md-dark">star_half</span><span class="material-icons md-18 md-dark">star_border</span><span class="material-icons md-18 md-dark">star_border</span>
+1.0
+<span class="material-icons md-18 md-dark">star</span><span class="material-icons md-18 md-dark">star_border</span><span class="material-icons md-18 md-dark">star_border</span><span class="material-icons md-18 md-dark">star_border</span>
+0.5
+<span class="material-icons md-18 md-dark">star_half</span><span class="material-icons md-18 md-dark">star_border</span><span class="material-icons md-18 md-dark">star_border</span><span class="material-icons md-18 md-dark">star_border</span>
+
+
+
+
+

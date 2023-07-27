@@ -3,7 +3,7 @@
 ## Idea
 - Use first person
 - Be casual
-- Focus in techonology areas
+- Focus in technology areas
 - Talk about reasons for any
 - Tuareg personality
   - amajagh
