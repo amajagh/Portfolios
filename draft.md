@@ -9,17 +9,16 @@
   - Tuareg quotes (see appendix)
 ## To do list
 - Front page
-  - Right aligned
-  - Quote, ..., amajagh, Eduardo Castellanos
 - Portrait
   - Photo
   - Future paragraph
 - Competences
+  - Table design -- 2nd column
+  - Font size -- 16px
   - Features stars review
 - Tasks
   - Project visualization (future)
 - Practice
-  - Center aligned?
 - Link
   - Center aligned?
   - Review accounts (future)

@@ -58,11 +58,11 @@ table {
     border-collapse: collapse;
 }
 td:first-child {
-    width:70%;
+    text-align:right;
+    width:30%;
 }
 td:last-child {
-    text-align:right;
-    width:30%
+    width:70%
 }
 tr:hover {
     background-color:wheat;
@@ -105,7 +105,7 @@ header div {
 /* Header Quote */
 header p {
     margin-left:45%;
-    margin-right:20%;
+    margin-right:15%;
     margin-bottom:20%;
     height:25%;
     color:white;
@@ -113,6 +113,7 @@ header p {
     font-size: 1.66em;
     font-weight:300;
     font-style: italic;
+    text-shadow: 2px 2px 0 black; */
 }
 /* Header Quote Note */
 header sup {
@@ -120,8 +121,8 @@ header sup {
 }
 /* Header Title */
 header h1 {
-    margin-left:20%;
-    margin-right:20%;
+    margin-left:15%;
+    margin-right:15%;
     height:auto;
     font-size: 4em;
     font-weight:bold;
@@ -131,16 +132,16 @@ header h1 {
 }
 /* Header Bar */
 header hr {
-    margin-left:20%;
-    margin-right:20%;
+    margin-left:25%;
+    margin-right:15%;
     height:auto;
     color:white;
     opacity: 0.4;
 }
 /* Header Subtitle */
 header h3 {
-    margin-left:20%;
-    margin-right:20%;
+    margin-left:15%;
+    margin-right:15%;
     height:20%;
     color:white;
     text-align:right;
@@ -280,8 +281,8 @@ section {
 .table {
     position:relative;
     padding-top: 2%;
-    left: 25%;
-    width: 60%;
+    left: 30%;
+    width: 50%;
     height:auto;
     display:flex;
     flex-direction: column;
@@ -339,6 +340,7 @@ section {
 /* Theory & Practice Sections Rows Left */
 .left {
     width: 25%;
+    text-align: right;
 }
 /* Theory & Practice Sections Rows Right */
 .right {
