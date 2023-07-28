@@ -1,39 +1,32 @@
 # Portfolio Website
 (c)2023 by Eduardo Castellanos (amajagh)
-## Idea
-- Use first person
+## Rules
+- Use first person singular
 - Be casual
 - Focus in technology areas
-- Talk about reasons for any
-- Tuareg personality
+- Use tuareg personality (amajagh imohagh)
   - amajagh
   - Tuareg quotes (see appendix)
 ## To do list
-- Content
-- Interactive - Menu selector
-- Interactive - Random Quote
----
-- Interactive - JavaScript
-  - Menu selector, according to section
-  - Random quotes
-  - Tasks selectors
-- Content
-  - Portrait
-    - Texts
-    - Picture
-  - Competences
-    - Qualifications review
-  - Tasks
-    - TBD
-  - Theory
-    - Texts
-  - Practice
-    - Texts
-  - Quality
-    - Links
-      - instagram?
-      - any other?
-  - Quotes classification
+- Front page
+  - Right aligned
+  - Quote, ..., amajagh, Eduardo Castellanos
+- Portrait
+  - Photo
+  - Future paragraph
+- Competences
+  - Features stars review
+- Tasks
+  - Project visualization (future)
+- Practice
+  - Center aligned?
+- Link
+  - Center aligned?
+  - Review accounts (future)
+## Interactive
+- Menu selector
+- Random Quote
+- Tasks selectors
 ## To be added / Improvements
 - Randomize background photo
 ## Bugs / Adjustments
