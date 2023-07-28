@@ -122,12 +122,14 @@ header sup {
 header h1 {
     margin-left:20%;
     margin-right:20%;
+    margin-top: 20%;
     height:auto;
     font-size: 4em;
     font-weight:bold;
     color:white;
     text-align:right;
-    text-shadow: 2px 2px 0 black; */
+    text-shadow: 2px 2px 0 black;
+    border: 1px solid red;
 }
 /* Header Bar */
 header hr {
