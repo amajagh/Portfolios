@@ -106,13 +106,13 @@ header div {
 header p {
     margin-left:45%;
     margin-right:20%;
+    margin-bottom:20%;
     height:25%;
     color:white;
     text-align: right;
     font-size: 1.66em;
     font-weight:300;
     font-style: italic;
-    border: 1px solid red;  
 }
 /* Header Quote Note */
 header sup {
@@ -122,14 +122,12 @@ header sup {
 header h1 {
     margin-left:20%;
     margin-right:20%;
-    margin-top: 20%;
     height:auto;
     font-size: 4em;
     font-weight:bold;
     color:white;
     text-align:right;
     text-shadow: 2px 2px 0 black;
-    border: 1px solid red;
 }
 /* Header Bar */
 header hr {
