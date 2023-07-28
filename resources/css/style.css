@@ -104,14 +104,15 @@ header div {
 }
 /* Header Quote */
 header p {
-    margin-left:10%;
-    margin-right:10%;
+    margin-left:45%;
+    margin-right:20%;
     height:25%;
     color:white;
-    text-align: center;
+    text-align: right;
     font-size: 1.66em;
     font-weight:300;
     font-style: italic;
+    border: 1px solid red;  
 }
 /* Header Quote Note */
 header sup {
@@ -125,7 +126,8 @@ header h1 {
     font-size: 4em;
     font-weight:bold;
     color:white;
-    text-align:center;
+    text-align:right;
+    text-shadow: 2px 2px 0 black; */
 }
 /* Header Bar */
 header hr {
@@ -141,8 +143,8 @@ header h3 {
     margin-right:20%;
     height:20%;
     color:white;
-    text-align:center;
-/*    text-shadow: 2px 2px 0 black; */
+    text-align:right;
+    text-shadow: 2px 2px 0 black; */
 }
 /* Header Navigation */
 header nav {
