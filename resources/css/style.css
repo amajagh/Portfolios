@@ -62,7 +62,7 @@ td:first-child {
     width:27%;
 }
 td:last-child {
-    width:70%
+    width:70%;
 }
 tr:hover {
     background-color:wheat;
@@ -243,7 +243,7 @@ section {
     background-size:cover;
     filter:grayscale(50%) opacity(50%);
     background-repeat:no-repeat;
-    background-position:bottom;
+    background-position:center;
 /*    border-radius: 100%; */
 }
 /* Portrait Section (A)*/
@@ -339,12 +339,12 @@ section {
 }
 /* Theory & Practice Sections Rows Left */
 .left {
-    width: 25%;
+    width: 35%;
     text-align: right;
 }
 /* Theory & Practice Sections Rows Right */
 .right {
-    width: 70%;
+    width: 60%;
 }
 
 /* Link (E)*/
@@ -361,6 +361,15 @@ section {
     display:flex;
     justify-content:start;
 }
+/* Links */
+.links {
+    position:relative;
+    left: 30%;
+    width: 50%;
+    display:flex;
+    flex-direction: column;
+}
+
 /* Link Icons */
 #email {
     background-image: url('../images/email-rounded-medium.png');
@@ -409,7 +418,9 @@ section {
 
 /* Footer */
 footer {
-    position:relative;
+/*    position:relative; */
+    position: sticky;
+    bottom: 0vh;
     height:auto;
     background-color:black;
 }
@@ -591,6 +602,12 @@ footer a:hover {
         left: 25%;
         width: 60%;
     }
+    /* Links */
+    .links {
+        left: 30%;
+        width: 50%;
+    }
+
 
 }
 

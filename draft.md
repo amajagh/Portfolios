@@ -10,11 +10,9 @@
 ## To do list
 - Front page
 - Portrait
-  - Photo
-  - Future paragraph
 - Competences
-  - Technology tuning
-  - Technology stars tuning
+  - Technology tuning (future)
+  - Technology stars tuning (future)
 - Tasks
   - Project visualization (future)
 - Practice
