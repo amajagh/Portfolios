@@ -13,9 +13,8 @@
   - Photo
   - Future paragraph
 - Competences
-  - Table design -- 2nd column
-  - Font size -- 16px
-  - Features stars review
+  - Technology tuning
+  - Technology stars tuning
 - Tasks
   - Project visualization (future)
 - Practice
