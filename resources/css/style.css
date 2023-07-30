@@ -418,9 +418,9 @@ section {
 
 /* Footer */
 footer {
-/*    position:relative; */
-    position: sticky;
-    bottom: 0vh;
+    position:relative;
+/*    position: sticky;
+    bottom: 0vh; */
     height:auto;
     background-color:black;
 }

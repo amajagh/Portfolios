@@ -17,11 +17,11 @@
   - Project visualization (future)
 - Practice
 - Link
-  - Center aligned?
   - Review accounts (future)
 ## Interactive
 - Menu selector
 - Random Quote
+- Footer sticky, except on front page
 - Tasks selectors
 ## To be added / Improvements
 - Randomize background photo
